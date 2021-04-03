@@ -2,8 +2,8 @@
   "access": "private",
   "contact": "Jeroen Pelgrims <github.com@jeroenpelgrims.com>",
   "labels": [],
-  "programming_language": "typescript",
+  "programming_language": "javascript",
   "evaluation": {
-    "handler": "typescript"
+    "handler": "javascript"
   }
 }
