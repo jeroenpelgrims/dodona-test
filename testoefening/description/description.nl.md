@@ -1,10 +1,10 @@
-Schrijf een functie echo die teruggeeft wat als argument aan de functie meegegeven wordt, maar dan in hoofdletters.
+Schrijf een functie caps die teruggeeft wat als argument aan de functie meegegeven wordt, maar dan in hoofdletters.
 
 ### Voorbeeld
 
 ```typescript
-> echo("boom");
+> caps("boom");
 "BOOM"
-> echo("AppEl");
+> caps("AppEl");
 "APPEL"
 ```
