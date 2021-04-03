@@ -1,0 +1,9 @@
+{
+  "access": "private",
+  "contact": "Jeroen Pelgrims <github.com@jeroenpelgrims.com>",
+  "labels": [],
+  "programming_language": "typescript",
+  "evaluation": {
+    "handler": "typescript"
+  }
+}
