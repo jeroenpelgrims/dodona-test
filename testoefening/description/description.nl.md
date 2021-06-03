@@ -1,4 +1,4 @@
-Schrijf een functie caps die teruggeeft wat als argument aan de functie meegegeven wordt, maar dan in hoofdletters.
+Schrijf een functie `caps` die teruggeeft wat als argument aan de functie meegegeven wordt, maar dan in hoofdletters.
 
 ### Voorbeeld
 
