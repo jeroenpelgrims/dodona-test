@@ -3,8 +3,8 @@ Schrijf een functie `hoofdletters` die teruggeeft wat als argument aan de functi
 ### Voorbeeld
 
 ```typescript
-> caps("boom");
+> hoofdletters("boom");
 "BOOM"
-> caps("AppEl");
+> hoofdletters("AppEl");
 "APPEL"
 ```
